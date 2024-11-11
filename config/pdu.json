@@ -1,0 +1,11 @@
+{
+  "power_distribution": {
+            "connected": false,
+            "model": "hbte",
+            "ip": "10.35.224.122",
+            "port": 6
+        },
+  "storing_paths": {
+    "local":"C:\\Workspace\\robot_practice\\logs"
+  }
+}
